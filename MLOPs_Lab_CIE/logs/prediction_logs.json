@@ -1,0 +1,41 @@
+[
+    {
+        "input": {
+            "bowler_id": 201,
+            "match_id": 5,
+            "overs_bowled": 4,
+            "runs_conceded": 30,
+            "wickets_taken": 2,
+            "pitch_condition": 1
+        },
+        "output": {
+            "prediction": 136.1
+        }
+    },
+    {
+        "input": {
+            "bowler_id": 202,
+            "match_id": 5,
+            "overs_bowled": 4,
+            "runs_conceded": 45,
+            "wickets_taken": 0,
+            "pitch_condition": 3
+        },
+        "output": {
+            "prediction": 142.85
+        }
+    },
+    {
+        "input": {
+            "bowler_id": 203,
+            "match_id": 6,
+            "overs_bowled": 4,
+            "runs_conceded": 25,
+            "wickets_taken": 3,
+            "pitch_condition": 1
+        },
+        "output": {
+            "prediction": 133.76
+        }
+    }
+]

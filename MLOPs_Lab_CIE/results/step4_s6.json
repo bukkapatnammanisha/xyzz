@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "ultratrack-ball-speed-kmph-predictor",
+    "version": 1,
+    "run_id": "d65b873f11b648b89a3f92efe5a98709",
+    "source_metric": "rmse",
+    "source_metric_value": 0.8525549835641101
+}
